@@ -1,0 +1,58 @@
+.head{
+    height: 1000px;
+    width: 1340px;
+
+}
+header{
+    height: 200px;
+    width: 1340px;
+    background-color: black;
+    
+}
+.logo{
+    padding: 10px;
+    float: left;
+}
+.logo img{
+    padding-left: 80px;
+}
+section{
+    height: 500px;
+    width: 1340px;
+    background-color: grey;
+    
+}
+.section{
+    height: 250px;
+    width: 500px;
+    background-color:rgb(175 164 152);;
+    margin: 50px auto;
+    opacity: .8;
+}
+.section h1{
+    text-align: center;
+    font-size: 30px;
+}
+footer{
+    height: 300px;
+    width: 1340px;
+    background-color: black;
+    
+}
+li a{
+    
+    text-decoration: none;
+    color: white;
+}
+nav{
+    float: right;
+    word-spacing: 20px;
+    padding: 20px;
+}
+nav li{
+    display: inline-block;
+    line-height: 130px;
+}
+nav a:hover{
+    background-color: red;
+}

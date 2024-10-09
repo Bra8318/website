@@ -1,0 +1,25 @@
+.login{
+    height: 400px;
+    width: 500px;
+    background: #000;
+    opacity: .7;
+    margin :25px auto;
+    padding: 10px;
+}
+form .form{
+    margin: auto 70px;
+}
+label{
+    color:white;
+}
+
+section{
+    height: 500px;
+    width: 1340px;
+    background-color: grey;
+    margin-top: -20px;
+}
+input{
+    height: 20px;
+    width: 300px;
+}

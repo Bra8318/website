@@ -1,0 +1,25 @@
+.register{
+    height: 1200px;
+    width :600px;
+    background: black;
+    opacity: .8;
+    margin: 25px auto;
+    padding: 20px;
+   
+}
+
+section{
+    height: 500px;
+    width: 1340px;
+    background-color: grey;
+    margin-top: -20px;
+}
+
+.box{
+    height: 1300px;
+    color: grey;
+}
+label{
+    color: white;
+}
+
